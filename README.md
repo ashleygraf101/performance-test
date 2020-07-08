@@ -1,5 +1,6 @@
 ## Performance test study
 
+TODO: Add tests for rate of successful logins for auth tests
 
 ### How to use
 
