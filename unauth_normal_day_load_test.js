@@ -31,7 +31,7 @@ export let options = {
   ],
   thresholds: {
       "http_req_duration": ["p(99)<5000"],
-      "http_req_duration": ["p(95)<3000"],
+      "http_req_duration": ["p(95)<2000"],
   },
 };
 
