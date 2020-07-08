@@ -38,7 +38,7 @@ Expected outcome is based on the ecommerce expectation of five nines uptime, esp
 
 Two concurrent users. 
 
-O errors.
+0 errors.
 
 100% of requests finish within 1000ms.
 
