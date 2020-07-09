@@ -23,7 +23,7 @@ I assume that ShowPo's system can comfortably cope with 8000 concurrent users, t
 
 This is not a full-scale load test. It follows two use cases: signing in, and viewing a home page.
 
-I used $100 million in projected revenue for 2020 and a 8% conversion rate as my guide to this number to find a baseline, as well as an average order value of $90. 
+I used $100 million in projected revenue for 2020 and a 8% conversion rate as my guide to this number to find a baseline, as well as an average order value of $70. 
 
 The typical ecommerce fashion and apparel website, according to Fireclick Index, has a 7.2% conversion rate. My thinking is that ShowPo is a higher performer, due to growing with their customers over the years through social media marketing.
 
