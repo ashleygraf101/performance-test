@@ -1,6 +1,8 @@
 ## Performance test study
 
-TODO: Add tests for rate of successful logins for auth tests
+TODO: Add tests for rate of successful logins for auth tests.
+
+TODO: Generate 1000 accounts, store them in a JSON file & use them in auth tests.
 
 ### How to use
 
