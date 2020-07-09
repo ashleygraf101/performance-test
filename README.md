@@ -63,6 +63,7 @@ Averaging 3200 concurrent users.
 ### Load - guest users: typical load
 
 38,051 users over 24 hours, the majority over 18 hours.
+
 10,651 adds to cart.
 
 3,044 transactions.
@@ -76,6 +77,8 @@ Averaging 3200 concurrent users.
 
 ### Load - authenticated: peak load
 
+Estimation of concurrent users during sales launches. I think 7000 to 15000. I've used the lower limit for this.
+
 Gradually ramps up to 7,000 concurrent users. 
 
 99% of requests should finish within 5000ms.
@@ -86,6 +89,8 @@ Gradually ramps up to 7,000 concurrent users.
 
 
 ### Load - guest users: peak load
+
+Estimation of concurrent users during sales launches. I think 7000 to 15000. I've used the lower limit for this.
 
 Gradually ramps up to 7,000 concurrent users. 
 
